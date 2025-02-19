@@ -27,5 +27,3 @@ Adding a face, Comet trail, Music and Sound, Shaders, etc.
 
 ## Created by 
 Dylan Laiben
-
-Nathan Mishler
